@@ -571,7 +571,7 @@ https://www.tooplate.com/view/2120-ben-resume
     }
   }
 
-  @media screen and (max-width: 992px) {
+  @media screen and (max-width: 1992px) {
 
     .hero-title {
       font-size: 1.8em;
@@ -603,7 +603,7 @@ https://www.tooplate.com/view/2120-ben-resume
     }
   }
 
-  @media screen and (max-width: 480px) {
+  @media screen and (max-width: 680px) {
 
     .hero-title {
       font-size: 26px;
